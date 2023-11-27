@@ -81,7 +81,7 @@ If you want to learn more about building native executables, please consult <htt
 
 ### Combined with other services in AO.space
 
-Refer to [build-and-deploy](https://github.com/ao-space/ao.space/blob/dev/docs/build-and-deploy.md).
+Refer to [build-and-deploy](https://github.com/ao-space/ao.space/blob/dev/docs/en/build-and-deploy.md).
 
 ## Notes
 

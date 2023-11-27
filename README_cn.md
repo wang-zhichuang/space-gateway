@@ -79,7 +79,7 @@ docker run -i --rm -p 8080:8080 native/space-gateway
 
 ### 和傲空间其它服务一起运行
 
-参考 [build-and-deploy](https://github.com/ao-space/ao.space/blob/dev/docs/build-and-deploy_CN.md)。
+参考 [build-and-deploy](https://github.com/ao-space/ao.space/blob/dev/docs/cn/build-and-deploy.md)。
 
 ## 注意事项
 
